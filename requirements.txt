@@ -1,9 +1,1 @@
 streamlit==0.59
-numpy
-matplotlib
-streamlit
-scipy
-hvplot
-bokeh
-holoviews
-scikit-learn
